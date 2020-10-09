@@ -1,6 +1,7 @@
 # Coder-Rerun
 
-<img src="./logo-evento.webp">
+<div style="text-align:center"><img src="https://static.wixstatic.com/media/7d39a7_5d29fdc2ee9a4ab089b2a2781d78ae7f~mv2.png/v1/fill/w_572,h_256,al_c,q_85,usm_0.66_1.00_0.01/logoEventoSite.webp"/></div>
+
 
 ## :book: Description
 
@@ -11,7 +12,10 @@ Problems solve by team Camaradas in the programming marathon Coder RERUN of Ramo
 Did You participe too of programming marathon Coder RERUN and do you have any problem solved other than ours?
 Contribute to this repository!
 
-## :book: Language used
+## :book: Used languages 
+[![Python](https://img.shields.io/static/v1?label=Python&message=3.8&colorA=purple&color=black&logo=Python&logoColor=white)](https://www.python.org/)
+<br>
+[![Cplusplus](https://img.shields.io/static/v1?label=C%2B%2B&message=17&colorA=purple&color=black&logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 
 ## :pencil2: Team 
 
