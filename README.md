@@ -11,9 +11,10 @@ Problems solve by team Camaradas in the programming marathon Coder RERUN of Ramo
 Did You participe too of programming marathon Coder RERUN and do you have any problem solved other than ours?
 Contribute to this repository!
 
+## :book: Language used
+
 ## :pencil2: Team 
 
-## :book: Language used
 
 <table>
   <tr>
