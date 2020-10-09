@@ -6,7 +6,7 @@
 
 Problems solve by team Camaradas in the programming marathon Coder RERUN of Ramo Estudantil IEEE-UEL.
 
-# :balloon: Contribution
+## :balloon: Contribution
 
 Did You participe too of programming marathon Coder RERUN and do you have any problem solved other than ours?
 Contribute to this repository!
