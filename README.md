@@ -1,9 +1,7 @@
-# Coder-Rerun
 
 <div style="text-align:center"><img src="./logo-event.png"/></div>
 
-
-## :book: Description
+# 📌 Description
 
 Problems solved by team Camaradas in the programming marathon Coder RERUN of Ramo Estudantil IEEE-UEL.
 
@@ -17,8 +15,7 @@ Contribute to this repository!
 <br>
 [![Cplusplus](https://img.shields.io/static/v1?label=C%2B%2B&message=17&colorA=purple&color=black&logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 
-## :pencil2: Team 
-
+## :pencil2: Team Camaradas
 
 <table>
   <tr>
